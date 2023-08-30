@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gephi 1: Intro to Network Visualizations
+title: Intro to Network Visualizations with Gephi
 nav_order: 2
 ---
 <img src="assets/img/Gephi1.png" alt="Workshop Title Slide" width="720">
