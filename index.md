@@ -17,7 +17,7 @@ What is digital scholarship, how can I do more with it, and how can it contribut
 - Explore digital approaches to research and knowledge mobilization. 
 - Discover opportunities for collaboration.
 
-## 2022-23 DMDS Workshop Topics
+## 2023-24 DMDS Workshop Topics
 
 This year's programming includes events on the following topics:
 - Gephi 1: Intro to Network Visualizations
