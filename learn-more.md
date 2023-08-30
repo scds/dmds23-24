@@ -1,17 +1,30 @@
 ---
 layout: default
-title: Learn More
+title: Getting Started with Computational Text Analyses
 nav_order: 4
 ---
+<img src="assets/img/TextAnalyses.png" alt="Workshop Title Slide" width="720">
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+Are you interested in textual analysis but unsure about where to start? Join us for an interactive “no experience required” introduction to the fundamental concepts, processes, and methodological approaches for analyzing text using computational approaches. Analytic techniques introduced include named entity recognition (NER), topic modeling, and sentiment analysis.
 
-<!--
+Preliminary Work/Prerequisites: Create a Constellate account.
 
-## More info and other tools
+Facilitator Bios: Jay Brodeur (he/him) is the Associate Director of Digital Scholarship Infrastructure & Services and the Administrative Director of the Sherman Centre for Digital Scholarship. Jay has years of experience working with data in a wide variety of formats and interdisciplinary contexts. A scientist by training with a PhD in Earth and Environmental Sciences, he’s comfortable working and advising on all kinds of data-related activities, ranging from data wrangling and integration to analysis and mapping to research data management. Jay’s also keenly interested in the application of digital approaches to support experiential learning opportunities within and outside of the classroom. Email Jay at brodeujj@mcmaster.ca. 
 
-- Tableau [free training videos](https://www.tableau.com/learn/training/20201)
-- LinkedIn Learning [Tableau training page](https://www.linkedin.com/learning/topics/tableau)
-- Data visualization design considerations for beginners: [Berkeley Library](https://guides.lib.berkeley.edu/data-visualization/design) | [University of Guelph Library](https://guides.lib.uoguelph.ca/c.php?g=700755&p=4976239)
+Devon Mordell is an Educational Developer at The MacPherson Institute for Teaching and Learning. Devon draws on her experience in media art, hobbyist programming and instructional design to teach workshops for the Sherman Centre. Her areas of interest in digital scholarship include data visualization, computational analyses of texts, sonification and critical digital humanities. Her research practice explores the algorithmic culture industry and platform psychogeography. Email Devon at mordelld@mcmaster.ca. 
 
--->
+# Workshop preparation 
+
+Coming Soon
+  
+# Workshop Recording
+
+Coming Soon
+
+# Workshop Slides
+
+Coming Soon
+
+# Links and Resources 
+
+Coming Soon
