@@ -2,10 +2,10 @@
 layout: default
 title: "Navigating Platform (Dis)affordances: Rhetorics of Suspension"
 nav_order: 2
-parent: "Introducing Digital Scholarship"
+parent: "Introducing Digital Scholarship 1: Podcasting, Born-Digital Publishing, and Social Media Research"
 ---
 
-<img src="../assets/img/Gephi1.png" alt="Workshop Title Slide" width="100%">
+<img src="../assets/img/introdig1.png" alt="Workshop Title Slide" width="100%">
 
 <!-- (September 21, 2023 | 1-2:30 p.m. ) -->
 

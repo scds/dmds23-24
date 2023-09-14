@@ -1,11 +1,11 @@
 ---
 layout: default
 title: "Empowering Diversity in STEM Academia: Hoops and Lab Coat"
-nav_order: 9
-parent: "Introducing Digital Scholarship"
+nav_order: 5
+parent: "Introducing Digital Scholarship 2: Interactive and Digital Storytelling, Digital Exhibits and Community Archiving"
 ---
 
-<img src="../assets/img/Gephi1.png" alt="Workshop Title Slide" width="100%">
+<img src="../assets/img/introdig2.png" alt="Workshop Title Slide" width="100%">
 
 <!-- September 26, 2023 | 3-4:30 p.m.  -->
 

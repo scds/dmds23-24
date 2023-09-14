@@ -1,11 +1,11 @@
 ---
 layout: default
 title: "Narratives of War: A Virtual Exhibit of Ukrainian Testimonies"
-nav_order: 6
-parent: "Introducing Digital Scholarship"
+nav_order: 2
+parent: "Introducing Digital Scholarship 2: Interactive and Digital Storytelling, Digital Exhibits and Community Archiving"
 ---
 
-<img src="../assets/img/Gephi1.png" alt="Workshop Title Slide" width="100%">
+<img src="../assets/img/introdig2.png" alt="Workshop Title Slide" width="100%">
 
 <!-- September 26, 2023 | 3-4:30 p.m.  -->
 

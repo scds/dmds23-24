@@ -1,11 +1,11 @@
 ---
 layout: default
 title: "Recovering and Re-capturing Queer Historical Spaces in the “Hamilton 2SLGBTQ+ Community Archive”"
-nav_order: 7
-parent: "Introducing Digital Scholarship"
+nav_order: 3
+parent: "Introducing Digital Scholarship 2: Interactive and Digital Storytelling, Digital Exhibits and Community Archiving"
 ---
 
-<img src="../assets/img/Gephi1.png" alt="Workshop Title Slide" width="100%">
+<img src="../assets/img/introdig2.png" alt="Workshop Title Slide" width="100%">
 
 <!-- September 26, 2023 | 3-4:30 p.m.  -->
 
