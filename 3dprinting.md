@@ -12,7 +12,7 @@ This is a day-long workshop that will explore 3d modelling and printing. We'll t
 
 ## Facilitator Bios
 
-John Fink is Digital Scholarship Librarian at McMaster University. 
+John Fink (he/they) is the Digital Scholarship Librarian at McMaster University Library. Their talents lie in complex and innovative systems administration and project management. He also has an interest in the maker/hacker element in digital scholarship, and is frequently spotted tinkering with esoteric hardware. If you are interested in having the Sherman Centre support your project, John is an excellent first contact. 
 
 Britt Sostar is Makerspace Coordinator at Thode Library in McMaster University.
 
