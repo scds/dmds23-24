@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Gephi Part 1: Introduction to Network Visualizations"
-nav_order: 2
+nav_order: 2023.09281330
 ---
 
 <img src="assets/img/Gephi1.png" alt="Workshop Title Slide" width="100%">

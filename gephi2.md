@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Gephi Part 2: Conducting Network Analysis"
-nav_order: 8
+nav_order: 2024.01181330
 ---
 
 <img src="assets/img/Gephi2.png" alt="Workshop Title Slide" width="100%">

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preserving Your Digital Scholarship Projects
-nav_order: 10
+nav_order: 2024.05011300
 ---
 <img src="assets/img/Preserving.png" alt="Workshop Title Slide" width="100%">
 

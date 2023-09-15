@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Exploring Networks of Research: New Searching with AI & Visualization"
-nav_order: 3
+nav_order: 2023.11021030
 ---
 
 <img src="assets/img/Networks.png" alt="Workshop Title Slide" width="100%">

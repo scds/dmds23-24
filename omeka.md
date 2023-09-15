@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Enhancing Your Digital Exhibit: Customization and Interactive Elements in Omeka S"
-nav_order: 7
+nav_order: 2023.11161330
 ---
 
 <img src="assets/img/Omeka.png" alt="Workshop Title Slide" width="100%">

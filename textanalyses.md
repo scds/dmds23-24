@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting Started with Computational Text Analyses
-nav_order: 4
+nav_order: 2023.11061330
 ---
 
 <img src="assets/img/TextAnalyses.png" alt="Workshop Title Slide" width="100%">

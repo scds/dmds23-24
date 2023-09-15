@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Introducing Digital Scholarship 2: Interactive and Digital Storytelling, Digital Exhibits and Community Archiving"
-nav_order: 1.2
+nav_order: 2023.09261500
 has_children: true
 has_toc: no
 ---

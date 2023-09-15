@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Less is More: Create Minimal Websites with Jekyll"
-nav_order: 6
+nav_order: 2023.11141330
 ---
 <img src="assets/img/Minimal.png" alt="Workshop Title Slide" width="720">
 

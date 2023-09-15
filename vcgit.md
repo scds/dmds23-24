@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to Version Control with Git
-nav_order: 5
+nav_order: 2023.11081400
 ---
 <img src="assets/img/VCGit.png" alt="Workshop Title Slide" width="100%">
 

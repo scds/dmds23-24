@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 3D Printing Soup to Nuts
-nav_order: 9
+nav_order: 2024.02281000
 ---
 
 <img src="assets/img/3DPrinting.png" alt="Workshop Title Slide" width="100%">

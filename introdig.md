@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Introducing Digital Scholarship 1: Podcasting, Born-Digital Publishing, and Social Media Research"
-nav_order: 1.1
+nav_order: 2023.09211300
 has_children: true
 has_toc: no
 ---

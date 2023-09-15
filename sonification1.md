@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sonification: Sounding and Listening as Critical Practice"
-nav_order: 5
+nav_order: 2024.02091000
 ---
 <img src="assets/img/sonification1.png" alt="Workshop Title Slide" width="100%">
 

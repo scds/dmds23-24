@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sonification: Communicating Data with Sound"
-nav_order: 5
+nav_order: 2024.03151300
 ---
 <img src="assets/img/sonification2.png" alt="Workshop Title Slide" width="100%">
 
