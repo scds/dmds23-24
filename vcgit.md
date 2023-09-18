@@ -7,7 +7,9 @@ nav_order: 2023.11081400
 
 # Introduction to Version Control with Git
 
-This workshop will give you a solid introduction to Git. Git is software originally designed to help manage vast, decentralized software projects with hundreds of authors, but it works just as well with many things that aren’t software, like data and text. Imagine having a complete archive of your work at every stage in its development. In addition, we'll go over some Github specific functionality, like how to make a free hostable website using Github Pages and how to utilize Github's wiki feature.
+This workshop will give you a solid introduction to Git. Git is software originally designed to help manage vast, decentralized software projects with hundreds of authors, but it works just as well with many things that aren’t software, like data and text. Imagine having a complete archive of your work at every stage in its development. In addition, we'll go over some Github specific functionality, like how to make a free hostable website using Github Pages and how to utilize GitHub's wiki feature.
+
+[Register for this workshop](https://libcal.mcmaster.ca/event/3744928){: .btn .btn-outline }
 
 ## Facilitator Bios
 

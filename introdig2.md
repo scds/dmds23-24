@@ -10,9 +10,9 @@ has_toc: no
 
 # Introducing Digital Scholarship 2: Interactive and Digital Storytelling, Digital Exhibits and Community Archiving
 
-<!-- September 26, 2023 | 3-4:30 p.m.  -->
-
 In the second installment of this two-event series, learn more about the interdisciplinary, multifaceted and emergent approaches to digital scholarship from our 2023 Graduate Residency cohort. 
+
+[Register for this workshop](https://libcal.mcmaster.ca/event/3754463){: .btn .btn-outline }
 
 <div markdown="1" style="border: 1px solid #7a003c; border-radius: 6px; margin-bottom: 1em; padding: 0.5em 1em 0; margin-top: 1em;" class="toc">
 <summary style="cursor:default; display: block; border-bottom: 1px solid #302d36; margin-bottom: 0.5em">
