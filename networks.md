@@ -16,7 +16,7 @@ Note: This method is experimental, with no standardized results.
 
 ## Facilitator Bio
 
-Jeffrey Demaine is McMaster University Library's Bibliometrics and Research Impact Librarian. He worked for a dozen years at the National Research Council, as a researcher in a German think-tank, and as the Bibliometrics librarian at the University of Waterloo. His recent publications reveal forgotten “Sleeping Beauty” articles, the changing gender distribution of Canadian researchers, and the effect of increased collaborations on the research impact of universities around the world. Beyond simply counting citations, Jeffrey parses the metadata of academic publications, examines the changing structure of science, and reveals the patterns that underly the work of McMaster’s researchers. He also co-organizes a Canadian conference on Bibliometrics.
+Jeffrey Demaine is McMaster University Library's Bibliometrics and Research Impact Librarian. He worked for a dozen years at the National Research Council, as a researcher in a German think-tank, and as the Bibliometrics librarian at the University of Waterloo. His recent publications reveal forgotten “Sleeping Beauty” articles, the changing gender distribution of Canadian researchers, and the effect of increased collaborations on the research impact of universities around the world. Beyond simply counting citations, Jeffrey parses the metadata of academic publications, examines the changing structure of science, and reveals the patterns that underly the work of McMaster’s researchers. He also co-organizes a [Canadian conference on Bibliometrics](https://www.bric-conference.ca/).
 
 <!-- # Workshop Preparation 
 
