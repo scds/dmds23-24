@@ -5,7 +5,13 @@ description: DMDS Webinars
 nav_order: 1
 ---
 
-<img src="assets/img/dmdsslate.png" alt="Workshop Title Slide" width="720">
+{%- assign workshops = site.pages 
+    | where_exp: "item", "item.grand_parent == null"
+    | where_exp: "item", "item.parent == null"
+    | sort: "title" 
+-%}
+
+<img src="assets/img/dmdsslate.png" alt="Workshop Title Slide" width="100%">
 
 # Welcome to the 2023-2024 Do More with Digital Scholarship Webinars
 
@@ -17,15 +23,17 @@ What is digital scholarship, how can I do more with it, and how can it contribut
 - Explore digital approaches to research and knowledge mobilization. 
 - Discover opportunities for collaboration.
 
-## 2023-24 DMDS Workshop Topics
+## 2023-24 DMDS Workshops
 
-This year's programming includes events on the following topics:
-- Gephi 1: Intro to Network Visualizations
-- Exploring Networks of Research: New Searching with AI and Visualization
-- Getting Started with Computational Text Analyses
-- Intro to Version Control with Git
-- Less is More: Create Minimal Websites with Jekyll
-- Enhancing Your Digital Exhibit: Customization and Interactive Elements in Omeka S
-- Gephi 2: Conducting Network Analysis
-- 3D Printing Soup to Nuts
-- Preserving Your Digital Scholarship Projects
+<div markdown="1" style="border: 1px solid #7a003c; border-radius: 6px; margin-bottom: 1em; padding: 0.5em 1em 0; margin-top: 1em;" class="toc">
+<summary style="cursor:default; display: block; border-bottom: 1px solid #302d36; margin-bottom: 0.5em">
+  Workshops
+</summary>
+<ul>
+{% for workshop in workshops %}
+{% if workshop.title != null and workshop.title != "Home" %}
+<li><a href="{{workshop.url}}">{{workshop.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
