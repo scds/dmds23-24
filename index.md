@@ -11,7 +11,7 @@ nav_order: 1
     | sort: "title" 
 -%}
 
-<img src="assets/img/dmdsslate.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 # Welcome to the 2023-2024 Do More with Digital Scholarship Webinars
 
