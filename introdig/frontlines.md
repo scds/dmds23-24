@@ -16,3 +16,8 @@ My project is a multimedia and online arts-based storytelling project called ‘
 ## Facilitator Bio
 
 Lulwama Mulalu is a Global Health Ph.D. student from Botswana working to examine the power of problem framing, political storytelling and historic amnesia in mainstream climate discourses in post-colonial Africa. Lulwama’s research explores how climate issues are framed in the conceptualisation of the “post-colonial” era and subsequently how the multi-level existential threat posed by ecological breakdown is understood in the context of a violent politics of disposable life within a hyper-capitalist death-based paradigm that is inherently hostile to Black life globally.  
+
+## Event Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/603dec59-226e-4db8-a087-a81fa240d276/public"></iframe>
+[View original here.](https://echo360.ca/media/603dec59-226e-4db8-a087-a81fa240d276/public)

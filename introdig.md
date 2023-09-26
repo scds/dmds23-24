@@ -23,3 +23,8 @@ In the first installment of this two-event series, learn more about the interdis
 - [Frontlines: Faces of the Climate Crisis](introdig/frontlines)
 - [Evidence of Us: Exploring Potential Futures of the “Queer” Archive](introdig/evidence-of-us)
 </div>
+
+## Event Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/bf65bc7a-f71e-43ea-b8e4-69e362c59783/public"></iframe>
+[View original here.](https://echo360.ca/media/bf65bc7a-f71e-43ea-b8e4-69e362c59783/public)

@@ -16,3 +16,8 @@ Various digital platforms analyze user interests, identities, and behaviours, ca
 ## Facilitator Bio
 
 Alexis-Carlota Cochrane (she/they) is a Ph.D. candidate in the Department of Communication Studies and Media Arts and Gender and Social Justice at McMaster University. She researches at the intersection of identity, technology, and digital culture. Some of Alexis-Carlota’s research can be found in Rivista di Digital Politics and IDEAH Journal.  
+
+## Event Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/94bd1acd-0dbb-4146-b144-89992982054e/public"></iframe>
+[View original here.](https://echo360.ca/media/94bd1acd-0dbb-4146-b144-89992982054e/public)

@@ -17,3 +17,7 @@ Evidence of Us is a four-part podcast series dedicated to exploring the differen
 
 Chase Thomson (he/they) is a young scholar, writer, and artist intrigued by the capacity of collective historical remembrance to strengthen marginalized communities in the present. Chase has recently completed his M.A. in Cultural Studies and Critical Theory at McMaster with his MRP, Evidence of Us, and is now pursuing his PhD in Adult Education and Community Development at the University of Toronto. He hopes to expand Evidence of Us and its archival, auto/biographical, and educational themes into a formal dissertation.
 
+## Event Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/13a7ea81-a947-4784-b068-114047a56634/public"></iframe>
+[View original here.](https://echo360.ca/media/13a7ea81-a947-4784-b068-114047a56634/public)

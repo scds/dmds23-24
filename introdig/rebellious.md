@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Rebellious Female Body"
-nav_order: 5
+nav_order: 1
 parent: "Introducing Digital Scholarship 1: Podcasting, Born-Digital Publishing, and Social Media Research"
 ---
 
@@ -16,3 +16,8 @@ parent: "Introducing Digital Scholarship 1: Podcasting, Born-Digital Publishing,
 ## Facilitator Bio
 
 Niloofar Hooman (she/her) is a Ph.D. candidate in the Department of Communication Studies and Media Arts at McMaster University. She holds a Ph.D. in Communication (2019) from the University of Tehran, Iran. Her research encompasses theories of new media, digital activism, feminism, and critical studies of marginalized bodies. Her work has been published in New Media & Society, The International Journal of the Image, LGBTQ Digital Cultures, and The MeToo Movement in Iran; Reporting Sexual Violence and Harassment.
+
+## Event Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a4314a01-5082-4b57-ac9c-69c2e440276b/public"></iframe>
+[View original here.](https://echo360.ca/media/a4314a01-5082-4b57-ac9c-69c2e440276b/public)
