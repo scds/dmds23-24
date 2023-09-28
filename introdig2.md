@@ -12,8 +12,6 @@ has_toc: no
 
 In the second installment of this two-event series, learn more about the interdisciplinary, multifaceted and emergent approaches to digital scholarship from our 2023 Graduate Residency cohort. 
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3754463){: .btn .btn-outline }
-
 <div markdown="1" style="border: 1px solid #7a003c; border-radius: 6px; margin-bottom: 1em; padding: 0.5em 1em 0; margin-top: 1em;" class="toc">
 <summary style="cursor:default; display: block; border-bottom: 1px solid #302d36; margin-bottom: 0.5em">
   Presentations
@@ -24,3 +22,8 @@ In the second installment of this two-event series, learn more about the interdi
 - [From (Bi)nary to Bi+: Archiving Joyful Resistance in the Digital Landscape](introdig2/bi-plus)
 - [Empowering Diversity in STEM Academia: Hoops and Lab Coat](introdig2/stem-diversity)
 </div> 
+
+## Event Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/80013e8b-fc33-492c-a250-9dd3e9dc9aab/public"></iframe>
+[View original here.](https://echo360.ca/media/80013e8b-fc33-492c-a250-9dd3e9dc9aab/public)
