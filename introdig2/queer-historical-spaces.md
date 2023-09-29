@@ -16,3 +16,8 @@ My project engages with oral histories and archival materials in the “Hamilton
 ## Facilitator Bio
 
 Stephanie Rico (she/her) is a Ph.D. candidate in English and Cultural Studies and Gender and Social Justice at McMaster University. Her research focuses on local queer archives and life narratives, contemporary queer memoirs as critical modes of record-keeping, and contemplates what it means to convivir with the histories, traumas, and persons from the past.  
+
+## Event Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/0696cf37-a00a-4083-aa16-e0a23f7ee065/public"></iframe>
+[View original here.](https://echo360.ca/media/0696cf37-a00a-4083-aa16-e0a23f7ee065/public)

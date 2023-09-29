@@ -16,3 +16,8 @@ Across the world, complex ecosystems of mobile internet tools have evolved in co
 ## Facilitator Bio
 
 Nnamdi Nnake is a Ph.D. candidate researching the history of communications technology in Africa and its intersections with material culture and political economy. Through the Sherman Residency, he is investigating mobile internet use amongst vulnerable populations and is part of another interdisciplinary study researching how communications technology can aid mobility amongst the aging. Nnamdi received a 2022-23 James Robertson Carruthers Memorial Award and is a recipient of the SSHRC Doctoral Fellowship for 2023.  
+
+## Event Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/dcb819d9-9b1a-4ecf-b984-72731c1eda76/public"></iframe>
+[View original here.](https://echo360.ca/media/dcb819d9-9b1a-4ecf-b984-72731c1eda76/public)

@@ -16,3 +16,8 @@ Russia’s invasion of Ukraine in 2022 began a brutal war that has had a devasta
 ## Facilitator Bio
 
 Emilie Altman recently completed her master’s degree in the Cognitive Science of Language program. Her research looks at whether trauma impacts language decades after the trauma occurred. Emilie uses data analysis techniques to investigate the language of over 750 Holocaust survivors who were interviewed in the 1990s. Before coming to McMaster University, Emilie completed her bachelor’s degree at Queen’s University in cognitive science and computing. Emilie also loves to travel, sing, and play board games. 
+
+## Event Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/d88472db-7206-4f49-895a-ca41c33385cf/public"></iframe>
+[View original here.](https://echo360.ca/media/d88472db-7206-4f49-895a-ca41c33385cf/public)
