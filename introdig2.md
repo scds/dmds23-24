@@ -20,7 +20,6 @@ In the second installment of this two-event series, learn more about the interdi
 - [Narratives of War: A Virtual Exhibit of Ukrainian Testimonies](introdig2/narratives-of-war)
 - [Recovering and Re-capturing Queer Historical Spaces in the “Hamilton 2SLGBTQ+ Community Archive”](introdig2/queer-historical-spaces)
 - [From (Bi)nary to Bi+: Archiving Joyful Resistance in the Digital Landscape](introdig2/bi-plus)
-- [Empowering Diversity in STEM Academia: Hoops and Lab Coat](introdig2/stem-diversity)
 </div> 
 
 ## Event Recording
