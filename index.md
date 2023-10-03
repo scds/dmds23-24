@@ -32,7 +32,7 @@ What is digital scholarship, how can I do more with it, and how can it contribut
 <ul>
 {% for workshop in workshops %}
 {% if workshop.title != null and workshop.title != "Home" %}
-<li><a href="{{workshop.url}}">{{workshop.title}}</a></li>
+<li><a href="{{workshop.url | absolute_url}}">{{workshop.title}}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
