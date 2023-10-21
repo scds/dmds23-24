@@ -11,11 +11,14 @@ Podcasts can take academic research out of the ivory tower and into the public. 
 
 **Veteran radio journalist Jeff Goodes, producer of CBC's White Coat, Black Art and McMaster's 2023 journalist-in-residence, will host a 1-hr roundtable discussion prior to the workshop from 12:30-1:20pm in the Sherman Centre.*
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3754418){: .btn .btn-outline }
-
 ## Facilitator Bio
 
 Chelsea Miya is a Postdoctoral Fellow with the Sherman Centre for Digital Scholarship at McMaster University. Her research and teaching interests include critical code studies, nineteenth-century American literature, and the digital humanities. She has held research positions with the SpokenWeb Network, the Kule Research Institute (Kias), and the Canadian Writing Research Collaboratory (CWRC). She co-edited the anthology Right Research: Modelling Sustainable Research Practices in the Anthropocene (Open Book Publishers 2021), and her article “Student-Driven Digital Learning: A Call to Action” appears in People, Practice, Power: Digital Humanities outside the Center (MIT Press 2021).
+
+## Event Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/3a5bc184-0849-4971-b32d-87f19700e2c2/public"></iframe>
+[View original here.](https://echo360.ca/media/3a5bc184-0849-4971-b32d-87f19700e2c2/public)
 
 <!-- # Workshop preparation 
 
