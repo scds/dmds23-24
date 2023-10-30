@@ -33,7 +33,8 @@ Coming Soon
 # Workshop Slides
 
 Coming Soon
+-->
 
-# Links and Resources 
+## Links and Resources 
 
-Coming Soon -->
+- Science vs. Vaping: <https://gimletmedia.com/shows/science-vs/6nh3veng>
