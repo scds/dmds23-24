@@ -22,3 +22,7 @@ Subhanya Sivajothy (she/her) brings a background of research in data justice, sc
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/6644f7a5-0fda-4cc2-b6fe-7563b5c07eab/public"></iframe>
 [View original here.](https://echo360.ca/media/6644f7a5-0fda-4cc2-b6fe-7563b5c07eab/public)
+
+## Links and Resources 
+
+- Gephi: <https://gephi.org/>
