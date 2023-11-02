@@ -14,6 +14,7 @@ Are you interested in textual analysis but unsure about where to start? Join us 
 
 ## Workshop Preparation 
 In this workshop, we will use [Google Colab](https://colab.google/), which requires a Google account. If this poses a challenge, please reach out to the [Sherman Centre](mailto:scds@mcmaster.ca) for alternative arrangements. 
+All of the materials for this workshop are available at this [shared Google Folder](https://u.mcmaster.ca/dmds-text-2324).
 
 ## Facilitator Bios
 
@@ -26,20 +27,14 @@ Devon Mordell is an Educational Developer at The MacPherson Institute for Teachi
 |Segment|Time Allotted|Key Topics / Activities|
 |:--|:--|:--|
 |**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods <br> Key considerations for different source materials and analyses|
-|**Named Entity Recognition**|30 minutes|Introduction and hands-on exercise <br> [Link to notebook](https://u.mcmaster.ca/dmds-ner)
+|**Named Entity Recognition**|35 minutes|Introduction to Google Colab <br> Get the data <br> Introduction and hands-on exercise|
 |**Break**|10 minutes|**Break**|
-|**Sentiment Analysis** |30 minutes|Introduction and hands-on exercise <br> [Link to notebook](https://u.mcmaster.ca/dmds-sentimental) <br> [Constellate](https://constellate.org/) demonstration|
-|**Topic Modeling**|30 minutes|Introduction and hands-on exercise <br> [Link to notebook](https://u.mcmaster.ca/dmds-topics)
-|**Q & A; Final Thoughts**|20 minutes|Questions and wrap-up <br> Where to learn more |
+|**Sentiment Analysis** |30 minutes|Introduction and hands-on exercise <br> [Constellate](https://constellate.org/) demonstration|
+|**Topic Modeling**|30 minutes|Introduction and hands-on exercise|
+|**Q & A; Final Thoughts**|20 minutes|Questions and wrap-up <br> Where to learn more|
 
 ## Workshop notebooks
-Most of our work will be done using jupyter notebooks hosted in Google Colab.
-<!-- - [Introduction to programmatic text prep](https://u.mcmaster.ca/dmds-text-prep) 
--->
-- [Named entity recognition (NER)](https://u.mcmaster.ca/dmds-ner)
-- [Topic modeling](https://u.mcmaster.ca/dmds-topics)
-- [Sentiment analysis](https://u.mcmaster.ca/dmds-sentimental)
-
+All of the materials for this workshop are available at this [shared Google Folder](https://u.mcmaster.ca/dmds-text-2324).
   
 <!-- # Workshop Recording
 
