@@ -27,7 +27,7 @@ Devon Mordell is an Educational Developer at The MacPherson Institute for Teachi
 |Segment|Time Allotted|Key Topics / Activities|
 |:--|:--|:--|
 |**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods <br> Key considerations for different source materials and analyses|
-|**Named Entity Recognition**|35 minutes|Introduction to Google Colab <br> Get the data <br> Introduction and hands-on exercise|
+|**Named Entity Recognition**|35 minutes|Introduction to Google Colab & Jupyter Notebooks <br> Get the data <br> Introduction and hands-on exercise|
 |**Break**|10 minutes|**Break**|
 |**Sentiment Analysis** |30 minutes|Introduction and hands-on exercise <br> [Constellate](https://constellate.org/) demonstration|
 |**Topic Modeling**|30 minutes|Introduction and hands-on exercise|
