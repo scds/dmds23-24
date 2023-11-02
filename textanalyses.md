@@ -28,7 +28,7 @@ Devon Mordell is an Educational Developer at The MacPherson Institute for Teachi
 |**Introductory remarks**|15 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods <br> Key considerations for different source materials and analyses|
 |**Named Entity Recognition**|30 minutes|Introduction and hands-on exercise <br> [Link to notebook](https://u.mcmaster.ca/dmds-ner)
 |**Break**|5 minutes|**Break**|
-|**Sentiment Analysis** |25 minutes|Introduction and hands-on exercise <br> [Link to notebook](https://u.mcmaster.ca/dmds-sentimental) <br> Demonstration of [Constellate](https://constellate.org/)|
+|**Sentiment Analysis** |25 minutes|Introduction and hands-on exercise <br> [Link to notebook](https://u.mcmaster.ca/dmds-sentimental) <br> [Constellate](https://constellate.org/) demonstration|
 |**Topic Modeling**|25 minutes|Introduction and hands-on exercise <br> [Link to notebook](https://u.mcmaster.ca/dmds-topics)
 |**Q & A; Final Thoughts**|10 minutes|Questions and wrap-up <br> Where to learn more |
 
