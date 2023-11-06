@@ -52,7 +52,7 @@ navigation: true
 # Override Default SCDS Web Icon
 favicon_ico: ""
 
-remote_theme: scds/jtd-mcmaster@sidebar-mod
+remote_theme: scds/jtd-mcmaster
 color_scheme: mcmaster
 # logo: "https://github.com/scds/intro-voyant/blob/main/assets/img/dmds-tableau.png?raw=true"
 
