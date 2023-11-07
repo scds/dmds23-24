@@ -18,7 +18,7 @@ Participants may download [Gephi](https://gephi.org/) ahead of time, though ther
 
 Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user. She also has experience in Research Data Management—particularly data cleaning and curation. Do not hesitate to reach out to her if you would like to talk more about data analysis and visualization as they evolve throughout the research process.
   
-## Event Recording
+## Workshop Recording
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/6644f7a5-0fda-4cc2-b6fe-7563b5c07eab/public"></iframe>
 [View original here.](https://echo360.ca/media/6644f7a5-0fda-4cc2-b6fe-7563b5c07eab/public)
