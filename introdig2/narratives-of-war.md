@@ -21,3 +21,7 @@ Emilie Altman recently completed her master’s degree in the Cognitive Science 
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/d88472db-7206-4f49-895a-ca41c33385cf/public"></iframe>
 [View original here.](https://echo360.ca/media/d88472db-7206-4f49-895a-ca41c33385cf/public)
+
+## Additional Resources
+
+- Narratives of War Virtual Exhibit: <https://now.omeka.net/>

@@ -21,3 +21,8 @@ Stephanie Rico (she/her) is a Ph.D. candidate in English and Cultural Studies an
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/0696cf37-a00a-4083-aa16-e0a23f7ee065/public"></iframe>
 [View original here.](https://echo360.ca/media/0696cf37-a00a-4083-aa16-e0a23f7ee065/public)
+
+## Additional Resources
+
+- Building the Archive: <https://buildingthearchive.hamont.org/>
+- Local History & Archives: <https://lha.hpl.ca/>
