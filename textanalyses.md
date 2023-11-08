@@ -10,8 +10,6 @@ nav_order: 2023.11061330
 
 Are you interested in textual analysis but unsure about where to start? Join us for an interactive “no experience required” introduction to the fundamental concepts, processes, and methodological approaches for analyzing text using computational approaches. Analytic techniques introduced include named entity recognition (NER), topic modeling, and sentiment analysis.
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3738766){: .btn .btn-outline }
-
 ## Workshop Preparation 
 In this workshop, we will use [Google Colab](https://colab.google/), which requires a Google account. If this poses a challenge, please reach out to the [Sherman Centre](mailto:scds@mcmaster.ca) for alternative arrangements. 
 All of the materials for this workshop are available at this [shared Google Folder](https://u.mcmaster.ca/dmds-text-2324).
@@ -33,17 +31,20 @@ Devon Mordell is an Educational Developer at The MacPherson Institute for Teachi
 |**Topic Modeling**|30 minutes|Introduction and hands-on exercise|
 |**Q & A; Final Thoughts**|20 minutes|Questions and wrap-up <br> Where to learn more|
 
-## Workshop notebooks
+## Workshop Notebooks
 All of the materials for this workshop are available at this [shared Google Folder](https://u.mcmaster.ca/dmds-text-2324).
   
-<!-- # Workshop Recording
+## Workshop Recording
 
-Coming Soon
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public"></iframe>
+[View original here.](https://echo360.ca/media/9602ee54-24a4-4c61-bfd1-a8aa550a1cd5/public)
 
-# Workshop Slides
+## Workshop Slides
 
-Coming Soon
+<embed src="assets/docs/testAnalysisSlides.pdf" style="border:none;" width="100%" height="466px">
+[Download as PDF.](assets/docs/testAnalysisSlides.pdf)
 
-# Links and Resources 
+## Links and Resources 
 - [Constellate](https://constellate.org/) is a text analysis learning and analysis platform supported by ITHAKA and 
-Coming Soon -->
+
+
