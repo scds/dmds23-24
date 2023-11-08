@@ -41,8 +41,8 @@ All of the materials for this workshop are available at this [shared Google Fold
 
 ## Workshop Slides
 
-<embed src="assets/docs/testAnalysisSlides.pdf" style="border:none;" width="100%" height="466px">
-[Download as PDF.](assets/docs/testAnalysisSlides.pdf)
+<embed src="assets/docs/textAnalysisSlides.pdf" style="border:none;" width="100%" height="466px">
+[Download as PDF.](assets/docs/textAnalysisSlides.pdf)
 
 ## Links and Resources 
 - [Constellate](https://constellate.org/) is a text analysis learning and analysis platform supported by JSTOR Labs and ITHAKA. 
