@@ -32,7 +32,7 @@ Devon Mordell is an Educational Developer at The MacPherson Institute for Teachi
 |**Q & A; Final Thoughts**|20 minutes|Questions and wrap-up <br> Where to learn more|
 
 ## Workshop Notebooks
-All of the materials for this workshop are available at this [shared Google Folder](https://u.mcmaster.ca/dmds-text-2324).
+All of the materials for this workshop are available in this [shared Google Folder](https://u.mcmaster.ca/dmds-text-2324). Note that the shared folder includes an additional notebook, which Devon created to demonstrate performing [Named Entity Recognition on a series of documents](https://colab.research.google.com/drive/1BC18oDNM9c9x5VMwzI4VPaapjCbEXYio?usp=sharing). 
   
 ## Workshop Recording
 
