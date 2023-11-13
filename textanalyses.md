@@ -12,7 +12,7 @@ Are you interested in textual analysis but unsure about where to start? Join us 
 
 ## Workshop Preparation 
 In this workshop, we will use [Google Colab](https://colab.google/), which requires a Google account. If this poses a challenge, please reach out to the [Sherman Centre](mailto:scds@mcmaster.ca) for alternative arrangements. 
-All of the materials for this workshop are available at this [shared Google Folder](https://u.mcmaster.ca/dmds-text-2324).
+All of the materials for this workshop are available at this [shared Google Drive Folder](https://u.mcmaster.ca/dmds-text-2324). If you are unable to access the Google Drive folder, the workshop materials may also be found [here](https://github.com/scds/dmds23-24/tree/main/textanalyses)--these can be uploaded into Google Colab or another Jupyter Notebook instance.
 
 ## Facilitator Bios
 
@@ -32,7 +32,7 @@ Devon Mordell is an Educational Developer at The MacPherson Institute for Teachi
 |**Q & A; Final Thoughts**|20 minutes|Questions and wrap-up <br> Where to learn more|
 
 ## Workshop Notebooks
-All of the materials for this workshop are available in this [shared Google Folder](https://u.mcmaster.ca/dmds-text-2324). Note that the shared folder includes an additional notebook, which Devon created to demonstrate performing [Named Entity Recognition on a series of documents](https://colab.research.google.com/drive/1BC18oDNM9c9x5VMwzI4VPaapjCbEXYio?usp=sharing). 
+All of the materials for this workshop are available in this [shared Google Folder](https://u.mcmaster.ca/dmds-text-2324). Note that the shared folder includes an additional notebook, which Devon created to demonstrate performing [Named Entity Recognition on a series of documents](https://colab.research.google.com/drive/1BC18oDNM9c9x5VMwzI4VPaapjCbEXYio?usp=sharing). If you are unable to access the Google Drive folder, the workshop materials may also be found [here](https://github.com/scds/dmds23-24/tree/main/textanalyses)--these can be uploaded into Google Colab or another Jupyter Notebook instance.
   
 ## Workshop Recording
 
