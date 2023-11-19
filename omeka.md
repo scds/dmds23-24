@@ -10,8 +10,6 @@ nav_order: 2023.11161330
 
 Create next level digital exhibits! We will use HTML5 to customize the appearance of your Omeka S digital exhibit and add interactive elements to your website. 
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3738767){: .btn .btn-outline }
-
 ## Workshop Preparation 
 
 This workshop is suited to folks who are already using Omeka S. If you would like to learn about the Omeka S digital exhibit platform, watch the Sherman Centre's [asynchronous learning module "Introduction to Digital Exhibits with Omeka S"](https://scds.github.io/Omeka-S/) ahead of this workshop and create an exhibit to work on. 
