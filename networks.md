@@ -24,9 +24,3 @@ Jeffrey Demaine is McMaster University Library's Bibliometrics and Research Impa
 ## Links and Resources
 
 <iframe src="https://widgets.figshare.com/articles/24487330/embed?show_title=1" width="100%" height="416" allowfullscreen frameborder="0"></iframe>
-
-<!-- 
-## Links and Resources 
-
-Coming Soon 
--->

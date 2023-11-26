@@ -20,8 +20,7 @@ Chelsea Miya is a Postdoctoral Fellow with the Sherman Centre for Digital Schola
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/5f36c9fb-37c7-4917-be9e-342aee9b9ac6/public"></iframe>
 [View original here.](https://echo360.ca/media/5f36c9fb-37c7-4917-be9e-342aee9b9ac6/public)
 
-<!-- 
+## Links and Resources 
 
-# Links and Resources 
-
-Coming Soon -->
+- [GitHub](https://www.github.com/)
+- [Intro to Version Control with Git - GitHub Pages Repository](https://github.com/scds/intro-git)
