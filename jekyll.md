@@ -26,12 +26,12 @@ Chelsea Miya is a Postdoctoral Fellow with the Sherman Centre for Digital Schola
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/5037f1cf-8d57-4522-a82c-118bcf2840ef/public"></iframe>
 [View original here.](https://echo360.ca/media/5037f1cf-8d57-4522-a82c-118bcf2840ef/public)
 
-<!-- 
 
-# Workshop Slides
+## Links and Resources
 
-Coming Soon
-
-# Links and Resources 
-
-Coming Soon -->
+- Jentery Sayers, "Minimal Definitions" (2016): <https://jntry.work/mindefinitions/>
+- Alex Gil, "The User, the Learner and the Machines We Make" (2015): <http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner>
+- Roopika Risaam and Alex Gil, "The Questions of Minimal Computing" (2022): <https://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html>
+- Alan, Liu, "Toward Critical infrastructure Studies" (2018): <http://cistudies.org/wp-content/uploads/Toward-Critical-Infrastructure-Studies.pdf>
+- Geoffrey Rockwell, "As Transparent as Infrastructure; On the research of cyberinfrastructure in the humanities" (2010): <http://cnx.org/content/m34315/latest/?collection=col11199/1.1>
+- Quinn Dombrowski, "Minimizing Computing Maximizes Labor" (2022): <https://www.digitalhumanities.org/dhq/vol/16/2/000594/000594.html>
