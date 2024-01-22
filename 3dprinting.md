@@ -10,7 +10,7 @@ nav_order: 2024.02281000
 
 This is a day-long workshop that will explore 3d modelling and printing. We'll take a physical object from the real world, use a series of sophisticated software to render it into a 3d model, and then learn how to print that model on a 3d printer.
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3744927){: .btn .btn-outline }
+This workshop will not be recorded.
 
 ## Workshop Preparation 
 
