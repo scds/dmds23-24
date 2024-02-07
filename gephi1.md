@@ -10,7 +10,9 @@ nav_order: 2023.09281330
 
 Learn to graph data and visualize networks at this virtual workshop on Gephi. Participants will learn how graph data can help express relationships between entities and visualize networks for Humanities scholars. The group will use a visualization tool intended for social network analysis to map and identify relationships.
 
-## Workshop Preparation 
+**The materials for this workshop are available here:** <https://scds.github.io/intro-gephi/>
+
+<!-- ## Workshop Preparation 
 
 Participants may download [Gephi](https://gephi.org/) ahead of time, though there will be time during the workshop to download the program as well.
 
@@ -25,4 +27,4 @@ Subhanya Sivajothy (she/her) brings a background of research in data justice, sc
 
 ## Links and Resources 
 
-- Gephi: <https://gephi.org/>
+- Gephi: <https://gephi.org/> -->
