@@ -6,6 +6,9 @@ nav_order: 2024.05060900
 
 <img src="assets/img/TextAnalyses.png" alt="Workshop Title Slide" width="100%">
 
+*Background photo image courtesy Ed Robertson via [unsplash](https://unsplash.com/photos/assorted-title-book-lot-eeSdJfLfx1A?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+)*
+
 # Computational Text Analyses - Bootcamp Edition
 
 Do you have a textual analysis project that you are trying to get off the ground? Or are you simply interested in learning more about how to analyze texts with computers? Join us for an intensive - but fun! - bootcamp at the Sherman Centre with opportunities to work on your own documents or a sample corpus if you just want to practice the techniques.  
