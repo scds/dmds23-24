@@ -34,9 +34,14 @@ Jay Brodeur (he/him) is the Director of Digital Scholarship Infrastructure & Ser
 ## Contents
 
 ### Day 1
+Time: 0930 - 1600
 |Segment|Time Allotted|Key Topics / Activities|
 |:--|:--|:--|
-|**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods <br> Key considerations for different source materials and analyses|
+|**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods|
+|**Text preparation**|120 minutes|Text prep with OpenRefine <br> Building workflows with Python|
+|**Lunch**|60 minutes|**Lunch**|
+|**Text Analysis**|180 minutes|Named Entity Recognition <br> Sentiment Analysis <br> Topic Modeling <br> Stylometry|
+
 |**Named Entity Recognition**|35 minutes|Introduction to Google Colab & Jupyter Notebooks <br> Get the data <br> Introduction and hands-on exercise|
 |**Break**|10 minutes|**Break**|
 |**Sentiment Analysis** |30 minutes|Introduction and hands-on exercise <br> [Constellate](https://constellate.org/) demonstration|
@@ -44,15 +49,14 @@ Jay Brodeur (he/him) is the Director of Digital Scholarship Infrastructure & Ser
 |**Q & A; Final Thoughts**|20 minutes|Questions and wrap-up <br> Where to learn more|
 
 ### Day 2
-
 |Segment|Time Allotted|Key Topics / Activities|
 |:--|:--|:--|
-|**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods <br> Key considerations for different source materials and analyses|
-|**Named Entity Recognition**|35 minutes|Introduction to Google Colab & Jupyter Notebooks <br> Get the data <br> Introduction and hands-on exercise|
-|**Break**|10 minutes|**Break**|
-|**Sentiment Analysis** |30 minutes|Introduction and hands-on exercise <br> [Constellate](https://constellate.org/) demonstration|
-|**Topic Modeling**|30 minutes|Introduction and hands-on exercise|
-|**Q & A; Final Thoughts**|20 minutes|Questions and wrap-up <br> Where to learn more|
+|**Corpora Selection**|30 minutes|Sources and types <br> Key considerations for different source materials and analyses <br> case studies|
+|**Working Period**|120 minutes|Work on your own data or a pre-selected project|
+|**Lunch**|10 minutes|**Lunch**|
+|**Visualization for Dissemination** |90 minutes|Core concepts <br> Visualization types <br> hands-on exercises|
+|**Working Period**|60 minutes|Continue project work|
+|**Share Back, Closing Comments**|20 minutes|Share your work <br> Questions and wrap-up|
 
 ## Workshop Materials
 *Coming soon.*
