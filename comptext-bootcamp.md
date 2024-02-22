@@ -42,12 +42,6 @@ Time: 0930 - 1600
 |**Lunch**|60 minutes|**Lunch**|
 |**Text Analysis**|180 minutes|Named Entity Recognition <br> Sentiment Analysis <br> Topic Modeling <br> Stylometry|
 
-|**Named Entity Recognition**|35 minutes|Introduction to Google Colab & Jupyter Notebooks <br> Get the data <br> Introduction and hands-on exercise|
-|**Break**|10 minutes|**Break**|
-|**Sentiment Analysis** |30 minutes|Introduction and hands-on exercise <br> [Constellate](https://constellate.org/) demonstration|
-|**Topic Modeling**|30 minutes|Introduction and hands-on exercise|
-|**Q & A; Final Thoughts**|20 minutes|Questions and wrap-up <br> Where to learn more|
-
 ### Day 2
 |Segment|Time Allotted|Key Topics / Activities|
 |:--|:--|:--|
