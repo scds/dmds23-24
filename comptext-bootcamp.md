@@ -35,6 +35,7 @@ Jay Brodeur (he/him) is the Director of Digital Scholarship Infrastructure & Ser
 
 ### Day 1
 Time: 0930 - 1600
+
 |Segment|Time Allotted|Key Topics / Activities|
 |:--|:--|:--|
 |**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods|
@@ -44,6 +45,7 @@ Time: 0930 - 1600
 
 ### Day 2
 Time: 0930 - 1600
+
 |Segment|Time Allotted|Key Topics / Activities|
 |:--|:--|:--|
 |**Corpora Selection**|30 minutes|Sources and types <br> Key considerations for different source materials and analyses <br> case studies|
