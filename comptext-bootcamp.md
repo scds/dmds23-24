@@ -6,13 +6,14 @@ nav_order: 2024.05060900
 
 <img src="assets/img/TextAnalyses.png" alt="Workshop Title Slide" width="100%">
 
-# Getting Started with Computational Text Analyses
+# Computational Text Analyses - Bootcamp Edition
 
 Do you have a textual analysis project that you are trying to get off the ground? Or are you simply interested in learning more about how to analyze texts with computers? Join us for an intensive - but fun! - bootcamp at the Sherman Centre with opportunities to work on your own documents or a sample corpus if you just want to practice the techniques.  
+
 Through hands-on exercises, we will introduce to the fundamental concepts, processes, and methodological approaches for preparing and analyzing text using computational approaches. We'll show you how to use tools like OpenRefine and Python for text preparation and introduce analytic techniques including named entity recognition (NER), topic modeling, sentiment analysis and stylometry.
 Participants are not expected to have any pre-requisite knowledge of text preparation and analysis, but experience with Python is an asset. Participants will be given an opportunity to complete exercises in advance of the workshop to build basic competency. 
-This is an in-person event and open to all who are able to travel to the Sherman Centre, which is accessibly located on the first floor of Mills Library at McMaster University.
-*Presented by Jay Brodeur (Associate Director, Digital Scholarship Infrastructure & Services and Administrative Director of the Sherman Centre for Digital Scholarship) and Devon Mordell (Educational Developer, The MacPherson Institute for Teaching and Learning).
+
+**This is an in-person event** and open to all who are able to travel to the Sherman Centre, which is accessibly located on the first floor of Mills Library at McMaster University.
 
 ## Workshop Preparation 
 In this workshop, we will use the following tools and platforms: 
