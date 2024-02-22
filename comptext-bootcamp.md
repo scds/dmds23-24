@@ -43,6 +43,7 @@ Time: 0930 - 1600
 |**Text Analysis**|180 minutes|Named Entity Recognition <br> Sentiment Analysis <br> Topic Modeling <br> Stylometry|
 
 ### Day 2
+Time: 0930 - 1600
 |Segment|Time Allotted|Key Topics / Activities|
 |:--|:--|:--|
 |**Corpora Selection**|30 minutes|Sources and types <br> Key considerations for different source materials and analyses <br> case studies|
