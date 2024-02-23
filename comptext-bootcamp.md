@@ -4,7 +4,7 @@ title: Computational Text Analyses Bootcamp
 nav_order: 2024.05060900
 ---
 
-<img src="assets/img/TextAnalysisBootcamp.png" alt="Workshop Title Slide" width="50%">
+<img src="assets/img/TextAnalysisBootcamp.png" alt="Workshop Title Slide" width="100%">
 
 *Background photo image courtesy Ed Robertson via [unsplash](https://unsplash.com/photos/assorted-title-book-lot-eeSdJfLfx1A?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
 )*
