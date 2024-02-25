@@ -11,8 +11,6 @@ The sounds of data are all around us: from phone notifications to car horns to t
 
 Register for the second session here: [Sonification: Communicating Data with Sound](sonification2)
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3754439){: .btn .btn-outline }
-
 ## Facilitator Bios
 
 Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user. She also has experience in Research Data Management—particularly data cleaning and curation. Do not hesitate to reach out to her if you would like to talk more about data analysis and visualization as they evolve throughout the research process.
