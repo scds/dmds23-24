@@ -6,10 +6,9 @@ nav_order: 2024.05060900
 
 <img src="assets/img/TextAnalysisBootcamp.png" alt="Workshop Title Slide" width="100%">
 
-*Background photo image courtesy Ed Robertson via [unsplash](https://unsplash.com/photos/assorted-title-book-lot-eeSdJfLfx1A?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
-)*
+*Background photo image courtesy Ed Robertson via [unsplash](https://unsplash.com/photos/assorted-title-book-lot-eeSdJfLfx1A?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)*
 
-# Computational Text Analyses - Bootcamp Edition
+# Computational Text Analyses Bootcamp
 
 Do you have a textual analysis project that you are trying to get off the ground? Or are you simply interested in learning more about how to analyze texts with computers? Join us for an intensive - but fun! - bootcamp at the Sherman Centre with opportunities to work on your own documents or a sample corpus if you just want to practice the techniques.  
 
@@ -17,6 +16,8 @@ Through hands-on exercises, we will introduce to the fundamental concepts, proce
 Participants are not expected to have any pre-requisite knowledge of text preparation and analysis, but experience with Python is an asset. Participants will be given an opportunity to complete exercises in advance of the workshop to build basic competency. 
 
 **This is an in-person event** and open to all who are able to travel to the Sherman Centre, which is accessibly located on the first floor of Mills Library at McMaster University.
+
+[Register for this workshop](https://libcal.mcmaster.ca/event/3788167){: .btn .btn-outline }
 
 ## Workshop Preparation 
 In this workshop, we will use the following tools and platforms: 
