@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preserving Your Digital Scholarship Projects
+title: Maximize Productivity with Essential Project Management Skills
 nav_order: 2024.04101230
 ---
 <img src="assets/img/ProjectManagement.png" alt="Workshop Title Slide" width="100%">
