@@ -17,7 +17,7 @@ Participants are not expected to have any pre-requisite knowledge of text prepar
 
 **This is an in-person event** and open to all who are able to travel to the Sherman Centre, which is accessibly located on the first floor of Mills Library at McMaster University.
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3788167){: .btn .btn-outline }
+[Register for this workshop](https://libcal.mcmaster.ca/event/3790314){: .btn .btn-outline }
 
 ## Workshop Preparation 
 In this workshop, we will use the following tools and platforms: 
