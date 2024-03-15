@@ -44,7 +44,7 @@ Time: 0930 - 1600
 |:--|:--|:--|
 |**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods|
 |**Text preparation**|120 minutes|Text prep with OpenRefine <br> Building workflows with Python|
-|**Lunch**|60 minutes|**Lunch**|
+|**Lunch (1200 - 1300)**|60 minutes|**Lunch**|
 |**Text Analysis**|180 minutes|Named Entity Recognition <br> Sentiment Analysis <br> Topic Modeling <br> Stylometry|
 
 ### Day 2
@@ -55,7 +55,7 @@ Time: 0930 - 1600
 |**Corpora Selection**|30 minutes|Sources and types <br> Key considerations for different source materials and analyses <br> case studies|
 |**Visualization for Dissemination** |75 minutes|Core concepts <br> Visualization types <br> hands-on exercises|
 |**Working Period**|75 minutes|Work on your own data or a pre-selected project|
-|**Lunch**|60 minutes|**Lunch**|
+|**Lunch (1230 - 1330)**|60 minutes|**Lunch**|
 |**Working Period**|120 minutes|Continue project work|
 |**Share Back, Closing Comments**|30 minutes|Share your work <br> Questions and wrap-up|
 
