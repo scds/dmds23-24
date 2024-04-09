@@ -9,9 +9,7 @@ nav_order: 2024.03151300
 
 In this two-part workshop, participants will be introduced to the theory and practice of data sonification. Most of us are familiar with data visualizations like graphs, charts, and maps. How might we communicate and engage with data differently through sound as opposed to visuals? In the second session, we will examine what sonification can do, the different types of sonification, and the types of data that work best in sound. We will put theory into practice and experiment with communicating data through sonification tools like TwoTone. 
 
-Register for the first session here: [Sonification: Sounding and Listening as Critical Practice](sonification1)
-
-[Register for this workshop](https://libcal.mcmaster.ca/event/3754448){: .btn .btn-outline }
+Check out the first session here: [Sonification: Sounding and Listening as Critical Practice](sonification1)
 
 ## Facilitator Bios
 

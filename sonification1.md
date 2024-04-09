@@ -9,7 +9,7 @@ nav_order: 2024.02091000
 
 The sounds of data are all around us: from phone notifications to car horns to the whistle at a sports game. In this two-part workshop, participants will be introduced to the theory and practice of data sonification. We will briefly delve into the history of sonification and think through the unique ways that humans process and communicate sonic information. In the first session, through interactive exercises, like virtual sound walks, participants will be introduced to approaches and theories of listening to sound critically and reflectively.
 
-Register for the second session here: [Sonification: Communicating Data with Sound](sonification2)
+Check out the second session here: [Sonification: Communicating Data with Sound](sonification2)
 
 ## Facilitator Bios
 
@@ -19,18 +19,7 @@ Chelsea Miya is a Postdoctoral Fellow with the Sherman Centre for Digital Schola
 
 Andrea Zeffiro (she/her) is an Associate Professor in critical technology studies in the Department of Communication Studies and Media Arts and an affiliate faculty member in the Master of Public Policy in Digital Society program and the Cultural Studies and Critical Theory MA program. Andrea received a Ph.D. in Communication Studies from Concordia University and was a postdoctoral fellow at the School of Interactive Arts and Technology at Simon Fraser University. Andrea’s current areas of research and teaching include critical data studies, data justice, critical cybersecurity studies, qualitative digital research methods, and critical and speculative design.
 
-<!-- # Workshop preparation 
+## Event Recording
 
-Coming Soon
-  
-# Workshop Recording
-
-Coming Soon
-
-# Workshop Slides
-
-Coming Soon
-
-# Links and Resources 
-
-Coming Soon -->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/5f36c9fb-37c7-4917-be9e-342aee9b9ac6/public"></iframe>
+[View original here.](https://echo360.ca/media/5f36c9fb-37c7-4917-be9e-342aee9b9ac6/public)
