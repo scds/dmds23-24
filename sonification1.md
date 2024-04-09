@@ -21,5 +21,5 @@ Andrea Zeffiro (she/her) is an Associate Professor in critical technology studie
 
 ## Event Recording
 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/5f36c9fb-37c7-4917-be9e-342aee9b9ac6/public"></iframe>
-[View original here.](https://echo360.ca/media/5f36c9fb-37c7-4917-be9e-342aee9b9ac6/public)
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/be512943-55e0-40bb-9a8b-e69211f6b417/public"></iframe>
+[View original here.](https://echo360.ca/media/be512943-55e0-40bb-9a8b-e69211f6b417/public)
