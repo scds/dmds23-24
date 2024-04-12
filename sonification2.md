@@ -19,18 +19,7 @@ Chelsea Miya is a Postdoctoral Fellow with the Sherman Centre for Digital Schola
 
 Andrea Zeffiro (she/her) is an Associate Professor in critical technology studies in the Department of Communication Studies and Media Arts and an affiliate faculty member in the Master of Public Policy in Digital Society program and the Cultural Studies and Critical Theory MA program. Andrea received a Ph.D. in Communication Studies from Concordia University and was a postdoctoral fellow at the School of Interactive Arts and Technology at Simon Fraser University. Andrea’s current areas of research and teaching include critical data studies, data justice, critical cybersecurity studies, qualitative digital research methods, and critical and speculative design.
 
-<!-- # Workshop preparation 
+## Event Recording
 
-Coming Soon
-  
-# Workshop Recording
-
-Coming Soon
-
-# Workshop Slides
-
-Coming Soon
-
-# Links and Resources 
-
-Coming Soon -->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8b1b2f85-911b-42bb-b2c6-03e56f6dd4d6/public"></iframe>
+[View original here.](https://echo360.ca/media/8b1b2f85-911b-42bb-b2c6-03e56f6dd4d6/public)
