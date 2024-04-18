@@ -46,6 +46,8 @@ Time: 0930 - 1600
 |**Text preparation**|120 minutes|Text prep with OpenRefine <br> Building workflows with Python|
 |**Lunch (1200 - 1300)**|60 minutes|**Lunch**|
 |**Text Analysis**|180 minutes|Named Entity Recognition [45 mins]<br> Sentiment Analysis [45 mins]<br> Topic Modeling [45 mins]<br> Stylometry [45 mins]|
+|**Wrap up**|10 minutes|Recap & thinking about day 2 projects|
+
 
 ### Day 2
 Time: 0930 - 1600
