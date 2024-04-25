@@ -23,7 +23,7 @@ Participants are not expected to have any pre-requisite knowledge of text prepar
 In this workshop, we will use the following tools and platforms: 
 - [Google Colab](https://colab.google/), which requires a Google account. If this poses a challenge, please reach out to the [Sherman Centre](mailto:scds@mcmaster.ca) for alternative arrangements. 
 - [OpenRefine](https://openrefine.org/): [Download](https://openrefine.org/download) and install prior to the first session.
-- [Constellate.org](https://constellate.org/), which is available to all McMaster members, as well as members of other institutions. If you do not have access, please contact the [Sherman Centre](mailto:scds@mcmaster.ca) for alternative arrangements.
+- (optional) [Constellate.org](https://constellate.org/), which is available to all McMaster members, as well as members of other institutions. If you do not have access, please contact the [Sherman Centre](mailto:scds@mcmaster.ca) for alternative arrangements.
 
 <!-- 
 All of the materials for this workshop are available at this [shared Google Drive Folder](https://u.mcmaster.ca/dmds-text-2324). If you are unable to access the Google Drive folder, the workshop materials may also be found [here](https://github.com/scds/dmds23-24/tree/main/textanalyses)--these can be uploaded into Google Colab or another Jupyter Notebook instance.
