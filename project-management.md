@@ -11,8 +11,6 @@ This project management workshop is designed to equip participants with the esse
 
 This workshop will not be recorded. 
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3788167){: .btn .btn-outline }
-
 ## Facilitator Bio
 
 Katy Celina is a first-generation Latinx graduate student pursuing a PhD in Neuroscience. With a diverse background in managing and leading projects, she has excelled in both academic and non-academic settings. In 2008, Katy obtained a diploma in management and marketing from the Show-Business School in Montreal (QC), and in 2020, she earned a Graduate Certificate in Knowledge Mobilization from Bishop's University.
