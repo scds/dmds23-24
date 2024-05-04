@@ -73,8 +73,42 @@ All of the materials for this workshop are available in this [shared Google Fold
 -->
 
 ## Links and Resources 
-*Coming soon.*
+Here are a variety of helpful resources to explore and learn more.
+
+### OpenRefine
+- [Library Carpentry lesson on OpenRefine](https://librarycarpentry.github.io/lc-open-refine/setup.html)
+- [University of Toronto Libraries OpenRefine tutorials](https://mdl.library.utoronto.ca/tools/openrefine)
+- [OpenRefine Manual on Regular Expressions](https://docs.openrefine.org/manual/expressions#regular-expressions)
+- [Using regular expressions in OpenRefine](https://gist.github.com/pmgreen/6e133c5dcde65762d29c): Tutorial by Peter Green, includes non-Latin script.
+- Regular expression testers
+	- [https://www.regular-expressions.info/](https://www.regular-expressions.info/)
+	- [https://regex101.com/](https://regex101.com/)
+	- [Regexr](https://regexr.com/): Interactive regular expression (regex) coder and explainer
+
+### Python & NLP
+- [Constellate](https://constellate.org/) is a text analysis learning and analysis platform supported by JSTOR Labs and ITHAKA. Tutorials are shared via [GitHub](https://github.com/ithaka/constellate-notebooks) under a CC-BY license. McMaster members can access tutorials, digitized materials, and an integrated python notebook environment by registering with their McMaster email address.
+
+#### Python Integrated Development Environments
+- There are many, many different Python IDEs. Find which one is [best for you](https://realpython.com/python-ides-code-editors-guide/). Jay is partial to [Pyzo](https://pyzo.org/).
+
+#### Python packages for text prep and Natural Langauge Processing
+- [PyTesseract](https://stackabuse.com/pytesseract-simple-python-optical-character-recognition): Simple Python Optical Character Recognition
+- [spaCy](https://spacy.io/usage/spacy-101/) NLP library and documentation
+- [NLTK](https://www.nltk.org/) NLP library and docmentation
+- [natas](https://pypi.org/project/natas/): Library for  processing historical English corpora, especially for studying neologisms
+- [Python phonetics package](https://pypi.org/project/phonetics/#usage), which includes methods for matching and clustering words by phonetic similarity
+- [pyspellchecker](https://pyspellchecker.readthedocs.io/en/latest/): A simple Python-based spell checking algorithm
+- [BookNLP](https://github.com/booknlp/booknlp): A natural language processing pipeline that scales to books and other long documents (in English).
+
+#### Other tutorials and resources
+- Check out Devon Mordell's two excellent text prep and analysis modules shared through the SCDS: [Pre-Processing Digitized Texts](https://scds.github.io/text-analysis-1/) and [Named Entity Recognition](https://scds.github.io/text-analysis-2/).
+- [Constellate](https://constellate.org/) a comprehensive set of resources to learn how to build your text and data mining skills. 
+- [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/). An excellent step-by-step walkthrough of the fundamentals of text prep with Python.
+- [Python Regex (Regular Expressions) for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/)
+- [Cleaning OCR’d text with Regular Expressions](https://programminghistorian.org/en/lessons/cleaning-ocrd-text-with-regular-expressions) by Laura Turner O'Hara for The Programming Historian.
+- [Natural Language Processing With Python's NLTK Package](https://realpython.com/nltk-nlp-python/#getting-text-to-analyze): An excellent end-to-end tutorial using the nltk package
+- [Natural Language Processing with Python: Introduction](https://sanjayasubedi.com.np/nlp/nlp-intro/). This is an excellent step-by-step introduction to basic pre-processing steps (though no clustering or error find/replace)
+- [Using Binder to connect GitHub repositories to Jupyter Notebooks](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md#1-creating-a-repo-to-binderize)
 
 <!--
-- [Constellate](https://constellate.org/) is a text analysis learning and analysis platform supported by JSTOR Labs and ITHAKA. 
 -->
