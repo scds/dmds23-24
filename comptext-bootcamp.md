@@ -35,6 +35,8 @@ Devon Mordell is an Educational Developer at The MacPherson Institute for Teachi
 
 Jay Brodeur (he/him) is the Director of Digital Scholarship Infrastructure & Services and the Administrative Director of the Sherman Centre for Digital Scholarship. Jay has years of experience working with data in a wide variety of formats and interdisciplinary contexts. A scientist by training with a PhD in Earth and Environmental Sciences, he’s comfortable working and advising on all kinds of data-related activities, ranging from data wrangling and integration to analysis and mapping to research data management. Jay’s also keenly interested in the application of digital approaches to support experiential learning opportunities within and outside of the classroom.
 
+Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user. She also has experience in Research Data Management—particularly data cleaning and curation. Do not hesitate to reach out to her if you would like to talk more about data analysis and visualization as they evolve throughout the research process. Contact Subhanya at sivajos@mcmaster.ca.
+
 ## Contents
 
 ### Day 1
