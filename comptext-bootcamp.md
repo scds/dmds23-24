@@ -62,7 +62,7 @@ Time: 0930 - 1600
 |**Share Back, Closing Comments**|30 minutes|Share your work <br> Questions and wrap-up|
 
 ## Workshop Materials
-All files for the bootcamp are available in [this shared Google Drive folder](https://u.mcmaster.ca/cta-bootcamp) (u.mcmaster.ca/cta-bootcamp). Either download the contents to your local computer or make a copy of the contents before beginning the exercises.
+All files for the bootcamp are available in [this shared Google Drive folder](https://u.mcmaster.ca/cta-bootcamp) (u.mcmaster.ca/cta-bootcamp). Either download the contents to your local computer or make a copy of the contents into your own Google Drive before beginning the exercises.
 
 <!--
 All of the materials for this workshop are available in this [shared Google Folder](https://u.mcmaster.ca/dmds-text-2324). Note that the shared folder includes an additional notebook, which Devon created to demonstrate performing [Named Entity Recognition on a series of documents](https://colab.research.google.com/drive/1BC18oDNM9c9x5VMwzI4VPaapjCbEXYio?usp=sharing). If you are unable to access the Google Drive folder, the workshop materials may also be found [here](https://github.com/scds/dmds23-24/tree/main/textanalyses)--these can be uploaded into Google Colab or another Jupyter Notebook instance.
