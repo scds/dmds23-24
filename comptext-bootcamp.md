@@ -56,8 +56,8 @@ Time: 0930 - 1600
 
 |Segment|Time Allotted|Key Topics / Activities|
 |:--|:--|:--|
-|**Corpora Selection**|30 minutes|Sources and types <br> Key considerations for different source materials and analyses <br> case studies|
-|**Visualization for Dissemination** |75 minutes|Core concepts <br> Visualization types <br> hands-on exercises|
+|**Corpora Selection**|30 minutes|Sources and types <br> Key considerations for different source materials and analyses <br> Case studies|
+|**Visualization for Dissemination** |75 minutes|Core concepts <br> Visualization types <br> Hands-on exercises|
 |**Working Period**|75 minutes|Work on your own data or a pre-selected project|
 |**Lunch (1230 - 1330)**|60 minutes|**Lunch**|
 |**Working Period**|120 minutes|Continue project work|
