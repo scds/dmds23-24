@@ -82,6 +82,34 @@ All of the materials for this workshop are available in this [shared Google Fold
 ## Links and Resources 
 Here are a variety of helpful resources to explore and learn more.
 
+### Natural Language Processing
+
+#### Constellate (NLP training and analysis)
+[Constellate](https://constellate.org/) is a text analysis learning and analysis platform supported by JSTOR Labs and ITHAKA. McMaster members can access tutorials, digitized materials, and an integrated python notebook environment by registering with their McMaster email address.
+
+Constellate provides:
+- A comprehensive set of interactive Jupyter Notebook-based tutorials for text analysis, shared via [GitHub](https://github.com/ithaka/constellate-notebooks) under a CC-BY license.
+- Analytical access to content from 35+ million articles, books, and newspapers from JSTOR, Portico, Chronicling America, etc.
+- A computational platform to develop notebooks and collect, create, analyze, and store data (to members of McMaster and other subscribing institutions).
+- Access to advanced support (to members of McMaster and other subscribing institutions).
+
+To access the features of the pedagogy package (McMaster members): 
+1. Sign up for an account using your McMaster email.
+	- If on campus, navigate to [https://constellate.org/register](https://constellate.org/register).
+	- If off-campus, log in via the [Library’s off-campus access service](https://u.mcmaster.ca/constellate-signup). 
+1. Follow the instructions to verify your account
+1. Log in via [https://constellate.org/login](https://constellate.org/login). 
+	- If you are off campus and aren’t recognized as a McMaster member, log out and back in via [McMaster Library off-campus access](https://u.mcmaster.ca/constellate-login). 
+
+#### Other tutorials and resources
+- Check out Devon Mordell's two excellent text prep and analysis modules shared through the SCDS: [Pre-Processing Digitized Texts](https://scds.github.io/text-analysis-1/) and [Named Entity Recognition](https://scds.github.io/text-analysis-2/).
+- [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/). An excellent step-by-step walkthrough of the fundamentals of text prep with Python.
+- [Python Regex (Regular Expressions) for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/)
+- [Cleaning OCR’d text with Regular Expressions](https://programminghistorian.org/en/lessons/cleaning-ocrd-text-with-regular-expressions) by Laura Turner O'Hara for The Programming Historian.
+- [Natural Language Processing With Python's NLTK Package](https://realpython.com/nltk-nlp-python/#getting-text-to-analyze): An excellent end-to-end tutorial using the nltk package
+- [Natural Language Processing with Python: Introduction](https://sanjayasubedi.com.np/nlp/nlp-intro/). This is an excellent step-by-step introduction to basic pre-processing steps (though no clustering or error find/replace)
+- [Using Binder to connect GitHub repositories to Jupyter Notebooks](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md#1-creating-a-repo-to-binderize)
+
 ### OpenRefine
 - [Library Carpentry lesson on OpenRefine](https://librarycarpentry.github.io/lc-open-refine/setup.html)
 - [University of Toronto Libraries OpenRefine tutorials](https://mdl.library.utoronto.ca/tools/openrefine)
@@ -92,8 +120,7 @@ Here are a variety of helpful resources to explore and learn more.
 	- [https://regex101.com/](https://regex101.com/)
 	- [Regexr](https://regexr.com/): Interactive regular expression (regex) coder and explainer
 
-### Python & NLP
-- [Constellate](https://constellate.org/) is a text analysis learning and analysis platform supported by JSTOR Labs and ITHAKA. Tutorials are shared via [GitHub](https://github.com/ithaka/constellate-notebooks) under a CC-BY license. McMaster members can access tutorials, digitized materials, and an integrated python notebook environment by registering with their McMaster email address.
+### Python
 
 #### Python Integrated Development Environments
 - There are many, many different Python IDEs. Find which one is [best for you](https://realpython.com/python-ides-code-editors-guide/). Jay is partial to [Pyzo](https://pyzo.org/).
@@ -106,16 +133,3 @@ Here are a variety of helpful resources to explore and learn more.
 - [Python phonetics package](https://pypi.org/project/phonetics/#usage), which includes methods for matching and clustering words by phonetic similarity
 - [pyspellchecker](https://pyspellchecker.readthedocs.io/en/latest/): A simple Python-based spell checking algorithm
 - [BookNLP](https://github.com/booknlp/booknlp): A natural language processing pipeline that scales to books and other long documents (in English).
-
-#### Other tutorials and resources
-- Check out Devon Mordell's two excellent text prep and analysis modules shared through the SCDS: [Pre-Processing Digitized Texts](https://scds.github.io/text-analysis-1/) and [Named Entity Recognition](https://scds.github.io/text-analysis-2/).
-- [Constellate](https://constellate.org/) a comprehensive set of resources to learn how to build your text and data mining skills. 
-- [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/). An excellent step-by-step walkthrough of the fundamentals of text prep with Python.
-- [Python Regex (Regular Expressions) for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/)
-- [Cleaning OCR’d text with Regular Expressions](https://programminghistorian.org/en/lessons/cleaning-ocrd-text-with-regular-expressions) by Laura Turner O'Hara for The Programming Historian.
-- [Natural Language Processing With Python's NLTK Package](https://realpython.com/nltk-nlp-python/#getting-text-to-analyze): An excellent end-to-end tutorial using the nltk package
-- [Natural Language Processing with Python: Introduction](https://sanjayasubedi.com.np/nlp/nlp-intro/). This is an excellent step-by-step introduction to basic pre-processing steps (though no clustering or error find/replace)
-- [Using Binder to connect GitHub repositories to Jupyter Notebooks](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md#1-creating-a-repo-to-binderize)
-
-<!--
--->
