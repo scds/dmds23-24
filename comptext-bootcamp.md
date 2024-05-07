@@ -97,7 +97,7 @@ To access the features of the pedagogy package (McMaster members):
 1. Log in via [https://constellate.org/login](https://constellate.org/login). 
 	- If you are off campus and aren’t recognized as a McMaster member, log out and back in via [McMaster Library off-campus access](https://u.mcmaster.ca/constellate-login).
 
-### HathiTrust Research Centre
+#### HathiTrust Research Centre
 The [HathiTrust Research Center](https://www.hathitrust.org/member-libraries/services-programs/htrc/) (HTRC) enables computational analysis of works in the [HathiTrust Digital Library](https://www.hathitrust.org/) (HTDL) to facilitate non-profit research and educational uses of the collection. McMaster members have access to the HTRC [services, materials, and training](https://analytics.hathitrust.org/) through the institution's membership in the HathiTrust.
 
 To access the HTRC: 
