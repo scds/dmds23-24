@@ -84,7 +84,7 @@ Here are a variety of helpful resources to explore and learn more.
 [Constellate](https://constellate.org/) is a text analysis learning and analysis platform supported by JSTOR Labs and ITHAKA. McMaster members can access tutorials, digitized materials, and an integrated python notebook environment by registering with their McMaster email address.
 
 Constellate provides:
-- A comprehensive set of interactive Jupyter Notebook-based tutorials for text analysis, shared via [GitHub](https://github.com/ithaka/constellate-notebooks) under a CC-BY license.
+- A comprehensive set of interactive Jupyter Notebook-based tutorials for text analysis, shared via [GitHub](https://github.com/ithaka/constellate-notebooks) under a CC-BY license.
 - Analytical access to content from 35+ million articles, books, and newspapers from JSTOR, Portico, Chronicling America, etc.
 - A computational platform to develop notebooks and collect, create, analyze, and store data (to members of McMaster and other subscribing institutions).
 - Access to advanced support (to members of McMaster and other subscribing institutions).
