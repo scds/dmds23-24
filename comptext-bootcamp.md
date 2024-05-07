@@ -95,7 +95,16 @@ To access the features of the pedagogy package (McMaster members):
 	- If off-campus, log in via the [Library’s off-campus access service](https://u.mcmaster.ca/constellate-signup). 
 1. Follow the instructions to verify your account
 1. Log in via [https://constellate.org/login](https://constellate.org/login). 
-	- If you are off campus and aren’t recognized as a McMaster member, log out and back in via [McMaster Library off-campus access](https://u.mcmaster.ca/constellate-login). 
+	- If you are off campus and aren’t recognized as a McMaster member, log out and back in via [McMaster Library off-campus access](https://u.mcmaster.ca/constellate-login).
+
+### HathiTrust Research Centre
+The [HathiTrust Research Center](https://www.hathitrust.org/member-libraries/services-programs/htrc/) (HTRC) enables computational analysis of works in the [HathiTrust Digital Library](https://www.hathitrust.org/) (HTDL) to facilitate non-profit research and educational uses of the collection. McMaster members have access to the HTRC [services, materials, and training](https://analytics.hathitrust.org/) through the institution's membership in the HathiTrust.
+
+To access the HTRC: 
+1. Sign in at https://analytics.hathitrust.org/.
+2. Select McMaster University as your institution and choose `Continue`.
+3. Follow through McMaster's Single Sign On process, if prompted.
+4. When prompted, check your email for a confirmation link and confirm your account.
 
 #### Other tutorials and resources
 - Check out Devon Mordell's two excellent text prep and analysis modules shared through the SCDS: [Pre-Processing Digitized Texts](https://scds.github.io/text-analysis-1/) and [Named Entity Recognition](https://scds.github.io/text-analysis-2/).
