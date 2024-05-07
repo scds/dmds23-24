@@ -57,7 +57,7 @@ The Jupyter notebook name for each exercise is indicated below.
 
 
 ### Day 2
-Time: 0930 - 1600
+Time: 0930 - 1600  
 [View/download slides](https://github.com/scds/dmds23-24/blob/main/assets/docs/Computational%20Text%20Analysis%20Bootcamp%20-%2020240507.pdf)
 
 |Segment|Time Allotted|Key Topics / Activities|
@@ -69,21 +69,17 @@ Time: 0930 - 1600
 |**Working Period**|120 minutes|Continue project work|
 |**Share Back, Closing Comments**|30 minutes|Share your work <br> Questions and wrap-up|
 
-
-
 <!--
 All of the materials for this workshop are available in this [shared Google Folder](https://u.mcmaster.ca/dmds-text-2324). Note that the shared folder includes an additional notebook, which Devon created to demonstrate performing [Named Entity Recognition on a series of documents](https://colab.research.google.com/drive/1BC18oDNM9c9x5VMwzI4VPaapjCbEXYio?usp=sharing). If you are unable to access the Google Drive folder, the workshop materials may also be found [here](https://github.com/scds/dmds23-24/tree/main/textanalyses)--these can be uploaded into Google Colab or another Jupyter Notebook instance.
 
 <embed src="assets/docs/textAnalysisSlides.pdf" style="border:none;" width="100%" height="466px">
 [Download as PDF.](assets/docs/textAnalysisSlides.pdf)
-
 -->
 
 ## Links and Resources 
 Here are a variety of helpful resources to explore and learn more.
 
-### Natural Language Processing
-
+### Natural Language Processing Training and Resources
 #### Constellate (NLP training and analysis)
 [Constellate](https://constellate.org/) is a text analysis learning and analysis platform supported by JSTOR Labs and ITHAKA. McMaster members can access tutorials, digitized materials, and an integrated python notebook environment by registering with their McMaster email address.
 
@@ -123,7 +119,6 @@ To access the features of the pedagogy package (McMaster members):
 	- [Regexr](https://regexr.com/): Interactive regular expression (regex) coder and explainer
 
 ### Python
-
 #### Python Integrated Development Environments
 - There are many, many different Python IDEs. Find which one is [best for you](https://realpython.com/python-ides-code-editors-guide/). Jay is partial to [Pyzo](https://pyzo.org/).
 
