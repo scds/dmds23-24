@@ -37,22 +37,28 @@ Jay Brodeur (he/him) is the Director of Digital Scholarship Infrastructure & Ser
 
 Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user. She also has experience in Research Data Management—particularly data cleaning and curation. Do not hesitate to reach out to her if you would like to talk more about data analysis and visualization as they evolve throughout the research process. Contact Subhanya at sivajos@mcmaster.ca.
 
+## Workshop Materials and Preparation
+All files for the bootcamp are available in [this shared Google Drive folder](https://u.mcmaster.ca/cta-bootcamp) [(u.mcmaster.ca/cta-bootcamp)](https://u.mcmaster.ca/cta-bootcamp). Download the contents to your local computer and unzip them, AND copy the contents into your own Google Drive before beginning the exercises.
+
 ## Contents
 
 ### Day 1
 Time: 0930 - 1600
+The Jupyter notebook name for each exercise is indicated below.  
+[View/download slides](https://github.com/scds/dmds23-24/blob/main/assets/docs/Computational%20Text%20Analysis%20Bootcamp%20-%2020240506.pdf)
 
 |Segment|Time Allotted|Key Topics / Activities|
 |:--|:--|:--|
 |**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods|
-|**Text preparation**|120 minutes|Text prep with OpenRefine <br> Building workflows with Python|
+|**Text preparation**|120 minutes|Text prep with OpenRefine <br> Building workflows with Python (CTA-Bootcamp-2024-python-prep.ipynb)|
 |**Lunch (1200 - 1300)**|60 minutes|**Lunch**|
-|**Text Analysis**|180 minutes|Named Entity Recognition [45 mins]<br> Sentiment Analysis [45 mins]<br> Topic Modeling [45 mins]<br> Stylometry [45 mins]|
+|**Text Analysis**|180 minutes|Named Entity Recognition [45 mins] (CTA-Bootcamp-2024-NER.ipynb)<br> Sentiment Analysis [45 mins] (CTA-Bootcamp-2024-SA.ipynb)<br> Topic Modeling [45 mins] (CTA-Bootcamp-2024-TM.ipynb)<br> Stylometry [45 mins] (CTA_Bootcamp_2024_stylometry.ipynb)|
 |**Wrap up**|10 minutes|Recap & thinking about day 2 projects|
 
 
 ### Day 2
 Time: 0930 - 1600
+[View/download slides](https://github.com/scds/dmds23-24/blob/main/assets/docs/Computational%20Text%20Analysis%20Bootcamp%20-%2020240507.pdf)
 
 |Segment|Time Allotted|Key Topics / Activities|
 |:--|:--|:--|
@@ -63,8 +69,7 @@ Time: 0930 - 1600
 |**Working Period**|120 minutes|Continue project work|
 |**Share Back, Closing Comments**|30 minutes|Share your work <br> Questions and wrap-up|
 
-## Workshop Materials and Preparation
-All files for the bootcamp are available in [this shared Google Drive folder](https://u.mcmaster.ca/cta-bootcamp) [(u.mcmaster.ca/cta-bootcamp)](https://u.mcmaster.ca/cta-bootcamp). Download the contents to your local computer and unzip them, AND copy the contents into your own Google Drive before beginning the exercises.
+
 
 <!--
 All of the materials for this workshop are available in this [shared Google Folder](https://u.mcmaster.ca/dmds-text-2324). Note that the shared folder includes an additional notebook, which Devon created to demonstrate performing [Named Entity Recognition on a series of documents](https://colab.research.google.com/drive/1BC18oDNM9c9x5VMwzI4VPaapjCbEXYio?usp=sharing). If you are unable to access the Google Drive folder, the workshop materials may also be found [here](https://github.com/scds/dmds23-24/tree/main/textanalyses)--these can be uploaded into Google Colab or another Jupyter Notebook instance.
