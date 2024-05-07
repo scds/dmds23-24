@@ -50,9 +50,9 @@ The Jupyter notebook name for each exercise is indicated below.
 |Segment|Time Allotted|Key Topics / Activities|
 |:--|:--|:--|
 |**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods|
-|**Text preparation**|120 minutes|Text prep with OpenRefine <br> Building workflows with Python (CTA-Bootcamp-2024-python-prep.ipynb)|
+|**Text preparation**|120 minutes|Text prep with OpenRefine <br> Building workflows with Python (`CTA-Bootcamp-2024-python-prep.ipynb`)|
 |**Lunch (1200 - 1300)**|60 minutes|**Lunch**|
-|**Text Analysis**|180 minutes|Named Entity Recognition [45 mins] (CTA-Bootcamp-2024-NER.ipynb)<br> Sentiment Analysis [45 mins] (CTA-Bootcamp-2024-SA.ipynb)<br> Topic Modeling [45 mins] (CTA-Bootcamp-2024-TM.ipynb)<br> Stylometry [45 mins] (CTA_Bootcamp_2024_stylometry.ipynb)|
+|**Text Analysis**|180 minutes|Named Entity Recognition [45 mins] (`CTA-Bootcamp-2024-NER.ipynb`)<br> Sentiment Analysis [45 mins] (`CTA-Bootcamp-2024-SA.ipynb`)<br> Topic Modeling [45 mins] (`CTA-Bootcamp-2024-TM.ipynb`)<br> Stylometry [45 mins] (`CTA_Bootcamp_2024_stylometry.ipynb`)|
 |**Wrap up**|10 minutes|Recap & thinking about day 2 projects|
 
 
