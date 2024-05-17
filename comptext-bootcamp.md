@@ -87,13 +87,16 @@ Constellate provides:
 - A computational platform to develop notebooks and collect, create, analyze, and store data (to members of McMaster and other subscribing institutions).
 - Access to advanced support (to members of McMaster and other subscribing institutions).
 
-To access the features of the pedagogy package (McMaster members): 
-1. Sign up for an account using your McMaster email.
-	- If on campus, navigate to [https://constellate.org/register](https://constellate.org/register).
-	- If off-campus, log in via the [Library’s off-campus access service](https://u.mcmaster.ca/constellate-signup). 
+To access the features of the pedagogy package, McMaster members must pair their Constellate accounts with the institution at least once per year. This can be done by logging in while connected to the McMaster network (via wired or wifi connection), or by connecting via the [Library's off-campus access] service. 
+
+When your account is paired with McMaster, you will see the message **Full access provided by McMaster University** after loggin in.  
+<img width="787" alt="image" src="https://github.com/scds/dmds23-24/assets/6332872/a4478b03-00f8-463f-a094-009a00313c6b">
+
+To sign up and pair your account to the instutution: 
+1. From on campus, navigate to [https://constellate.org/register](https://constellate.org/register). From off campus, log in via the [Library’s off-campus access service](https://u.mcmaster.ca/constellate-signup). 
 1. Follow the instructions to verify your account
-1. Log in via [https://constellate.org/login](https://constellate.org/login). 
-	- If you are off campus and aren’t recognized as a McMaster member, log out and back in via [McMaster Library off-campus access](https://u.mcmaster.ca/constellate-login).
+1. Log in via [https://constellate.org/login](https://constellate.org/login). If you are off campus and aren’t recognized as a McMaster member, log out and back in via [McMaster Library off-campus access](https://u.mcmaster.ca/constellate-login).
+
 
 #### HathiTrust Research Centre
 The [HathiTrust Research Center](https://www.hathitrust.org/member-libraries/services-programs/htrc/) (HTRC) enables computational analysis of works in the [HathiTrust Digital Library](https://www.hathitrust.org/) (HTDL) to facilitate non-profit research and educational uses of the collection. McMaster members have access to the HTRC [services, materials, and training](https://analytics.hathitrust.org/) through the institution's membership in the HathiTrust.
