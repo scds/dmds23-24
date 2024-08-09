@@ -2,7 +2,7 @@
 
 Materials for the **2023-24 DMDS Webinars**.
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/dash23-24) with GitHub Pages.   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/dmds23-24) with GitHub Pages.   
 
 Contributions by the following individuals: 
 - Workshop content created by the Sherman Center for Digital Scholarship
