@@ -9,7 +9,7 @@ nav_order: 2023.11081400
 
 This workshop will give you a solid introduction to Git. Git is software originally designed to help manage vast, decentralized software projects with hundreds of authors, but it works just as well with many things that aren’t software, like data and text. Imagine having a complete archive of your work at every stage in its development. In addition, we'll go over some Github specific functionality, like how to make a free hostable website using Github Pages and how to utilize GitHub's wiki feature.
 
-**The recording and materials for this workshop are available here**: https://learn.scds.ca/intro-git/
+**The recording and materials for this workshop are available here**: <https://learn.scds.ca/intro-git/>
 
 ## Facilitator Bios
 
